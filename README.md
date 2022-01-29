@@ -5,3 +5,5 @@ I like Computer Science, Data Management and Creating fun projects.
 - ReflectDB - Lightweight database system written in Python
 - BasiclyQueryRick - A rickroller made in Flask that also plots data for anayltics 
 - AIRSupport - P2P Encrypted Communications Library made with Sockets
+
+![Ow1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ow1e&show_icons=true&theme=tokyonight)
