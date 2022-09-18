@@ -1,10 +1,16 @@
 # Hi there 👋
 I like Computer Science, Internet of Things, LoRa Communication and creating cool software.
 
-## Projects
+## Former Projects
 - ReflectDB - Lightweight database system written in Python
 - BasiclyQueryRick - A rickroller made in Flask that also plots data for anayltics 
 - OpenLoop - A IOT Solution for creating automatic tasks run in a custom python runtime
+
+## Current Projects
+- FRC6854 Robotics
+- Cyclone Portal
+- Brunt Framework
+
 ## Stuff I know
 | Category              | Types                              |
 |-----------------------|------------------------------------|
