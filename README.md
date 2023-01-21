@@ -14,8 +14,8 @@ I like Computer Science, Internet of Things, LoRa Communication and creating coo
 |-----------------------|------------------------------------|
 | Programming Languages | Python, C#, Swift, Kotlin and Go   |
 | Databases             | Redis, SQL, PostgreSQL and MongoDB |
-| Operating Systems     | GNU / Linux, FreeBSD               |
-| IoT                   | nRF, WisBlock, Arduino, ESP32      |
+| Operating Systems     | Windows, Linux and FreeBSD         |
+| IoT                   | nRF, WisBlock, Arduino and ESP32   |
 
 ## Statistics
 ![Ow1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ow1e&show_icons=true&theme=tokyonight)  
