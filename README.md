@@ -7,7 +7,8 @@ I like Computer Science, Internet of Things, LoRa Communication and creating coo
 - OpenLoop - A IOT Solution for creating automatic tasks run in a custom python runtime
 
 ## Current Projects
-- FRC6854 Robotics
+- FRC6854 ChargedUp Code
+- FRC6854 Website
 
 ## Stuff I know
 | Category              | Types                              |
