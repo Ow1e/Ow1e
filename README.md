@@ -1,5 +1,5 @@
 # Hi there 👋
-I like Computer Science, Internet of Things, LoRa Communication and creating cool software.
+Im a grade 10 student from A.B. Lucas Secondary School, specializing in Cyber Security, Programming and Electronics.
 
 ## Former Projects
 - ReflectDB - Lightweight database system written in Python
