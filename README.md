@@ -7,8 +7,15 @@ Im a grade 10 student from A.B. Lucas Secondary School, specializing in Cyber Se
 - OpenLoop - A IOT Solution for creating automatic tasks run in a custom python runtime
 
 ## Current Projects
-- FRC6854 ChargedUp Code
-- FRC6854 Website
+### Robotics Projects
+- [Team Website](http://team6854.com)
+- [VikingDash Pit Management Software](https://github.com/FRC6854/VikingDash)
+- 2023 FRC Programming
+- [KotlinFRC Template](https://github.com/Ow1e/KotlinFRC)
+### Personal Projects
+- [SailDB - A simple data formater](https://github.com/Ow1e/SailDB)
+- [DiscordBox - A simple bot that prints messages on thermal printers](https://github.com/Ow1e/DiscordBox)
+- [Brunt - A very simplified full stack Flask addon for responsiveness](https://github.com/Ow1e/Brunt)
 
 ## Stuff I know
 | Category              | Types                              |
