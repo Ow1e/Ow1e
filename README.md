@@ -10,7 +10,7 @@ Im a grade 10 student from A.B. Lucas Secondary School, specializing in Cyber Se
 ### Robotics Projects
 - [Team Website](http://team6854.com)
 - [VikingDash Pit Management Software](https://github.com/FRC6854/VikingDash)
-- 2023 FRC Programming
+- [2023 ChargedUp Robot Code](https://github.com/FRC6854/2023ChargedUpOfficial)
 - [KotlinFRC Template](https://github.com/Ow1e/KotlinFRC)
 ### Personal Projects
 - [SailDB - A simple data formater](https://github.com/Ow1e/SailDB)
@@ -20,7 +20,7 @@ Im a grade 10 student from A.B. Lucas Secondary School, specializing in Cyber Se
 ## Stuff I know
 | Category              | Types                              |
 |-----------------------|------------------------------------|
-| Programming Languages | Python, C#, Swift, Kotlin and Go   |
+| Programming Languages | Python, C#, Swift, Kotlin, TypeScript, Java, Svelte and Go   |
 | Databases             | Redis, SQL, PostgreSQL and MongoDB |
 | Operating Systems     | Windows, Linux and FreeBSD         |
 | IoT                   | nRF, WisBlock, Arduino and ESP32   |
