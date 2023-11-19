@@ -10,7 +10,7 @@ I'm a Grade 11 student from A.B. Lucas Secondary School, specializing in Cyber S
 ## Current Projects
 ### Robotics Projects
 - [Team Website](http://team6854.com)
-- [VikingDash Pit Management Software](https://github.com/FRC6854/VikingDash)
+- [VikingPit Pit Management Software](https://github.com/FRC6854/VikingPit)
 - [2023 ChargedUp Robot Code](https://github.com/FRC6854/2023ChargedUpOfficial)
 - [KotlinFRC Template](https://github.com/Ow1e/KotlinFRC)
 
