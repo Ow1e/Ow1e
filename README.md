@@ -22,8 +22,8 @@ I'm a Grade 11 student from A.B. Lucas Secondary School, specializing in Cyber S
 ## Skills
 | Category              | Types                                |
 |-----------------------|--------------------------------------|
-| Programming Languages | Python, C#, Swift, Kotlin, TypeScript, Java, Svelte, and Go   |
-| Databases             | Redis, SQL, PostgreSQL, and MongoDB  |
+| Programming Languages | Python, C#, C, Swift, Kotlin, TypeScript, Java, Svelte, React/Remix and Go   |
+| Databases             | Redis, SQL, PostgreSQL, Prisma and MongoDB  |
 | Operating Systems     | Windows, Linux, and FreeBSD          |
 | IoT                   | nRF, WisBlock, Arduino, and ESP32    |
 
