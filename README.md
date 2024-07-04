@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Grade 11 student from A.B. Lucas Secondary School, who likes to program things for fun
+I'm a Grade 12 student from A.B. Lucas Secondary School, who likes to program things for fun
 
 ## Skills
 | Category              | Types                                |
